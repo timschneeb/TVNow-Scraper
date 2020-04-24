@@ -1,5 +1,7 @@
 # TVNow/Watchbox Scraper
 
+**DEFUNCT: This project is currently not functional because of a TVNow-API change**
+
 ## Features
 
 * Extract M3U hls stream playlist file from Movie ID
